@@ -5,10 +5,6 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/tkoyama010/awesome-python-dataviz/discussions/7)
 
 A curated list of awesome data visualizations **python** frameworks, libraries, and software.
-We were inspired by:
-
-- [awesome-python](https://github.com/vinta/awesome-python)
-- [awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz)
 
 ## Contents
 
@@ -17,9 +13,9 @@ We were inspired by:
 - [altair](https://altair-viz.github.io/) - Declarative statistical visualizations, based on Vega-Lite.
 - [bokeh](https://bokeh.pydata.org/en/latest/) - Interactive Web Plotting for Python.
 - [bqplot](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook.
-- [cartopy](https://github.com/SciTools/cartopy) - A cartographic python library with matplotlib support.
+- [cartopy](https://github.com/SciTools/cartopy) - A cartographic python library with Matplotlib support.
 - [Chartify](https://github.com/spotify/chartify) - Bokeh wrapper that makes it easy for data scientists to create charts.
-- [dash](https://plot.ly/products/dash/) - Built on top of Flask, React and Plotly aimed at analytical web applications.
+- [dash](https://plot.ly/products/dash/) - Built on top of Flask, React, and Plotly aimed at analytical web applications.
   - [awesome-dash](https://github.com/Acrotrend/awesome-dash)
 - [diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters
 - [diagrams](https://github.com/mingrammer/diagrams) - Diagram as Code.
@@ -30,10 +26,10 @@ We were inspired by:
 - [ipyvolume](https://ipyvolume.readthedocs.io/en/latest/) - 3D visualization with Jupyter.
 - [matplotlib](https://matplotlib.org/) - 2D plotting library.
 - [mayavi](https://docs.enthought.com/mayavi/mayavi/) - interactive scientific data visualization and 3D plotting in Python.
-- [missingno](https://github.com/ResidentMario/missingno) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
-- [Napari](https://github.com/napari/napari) - Multi-dimensional image viewer for python.
+- [missingno](https://github.com/ResidentMario/missingno) - provides a flexible toolset of data-visualization utilities that allows a quick visual summary of the completeness of your dataset, based on Matplotlib.
+- [Napari](https://github.com/napari/napari) - Multi-dimensional image viewer for Python.
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - generates statistical analytic reports with visualization for quick data analysis.
-- [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js](https://github.com/plotly/plotly.js)
+- [plotly](https://plot.ly/python/) - Interactive web-based visualization built on top of [plotly.js](https://github.com/plotly/plotly.js)
 - [plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
 - [pptk](https://github.com/heremaps/pptk) - Visualize and work with 2D/3D pointclouds
 - [pygraphviz](https://pypi.org/project/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
@@ -51,4 +47,7 @@ We were inspired by:
 
 ### Resources
 
+- [awesome-python](https://github.com/vinta/awesome-python) by Vinta Chen
+- [awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz) by Javier Luraschi
+- [awesome-scientific-python](https://github.com/rossant/awesome-scientific-python) by Cyrille Rossant
 - [PyViz](https://pyviz.org/tools.html) - Python tools for data visualization.
