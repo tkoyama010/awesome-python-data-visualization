@@ -38,6 +38,7 @@ We were inspired by:
 - [VisPy](https://vispy.org/) - High-performance scientific visualization based on OpenGL.
 - [vtk](https://www.vtk.org/) - 3D computer graphics, image processing, and visualization that includes a Python interface.
 - [Altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python.
+
 * [Bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
 * [bqplot](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook.
 * [Cartopy](https://github.com/SciTools/cartopy) - A cartographic python library with matplotlib support.
