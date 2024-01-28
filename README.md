@@ -27,9 +27,11 @@ We were inspired by:
 - [glumpy](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library.
 - [holoviews](https://holoviews.org/) - Complex and declarative visualizations from annotated data.
 - [ipychart](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
+- [ipyvolume](https://ipyvolume.readthedocs.io/en/latest/) - 3D visualization with Jupyter.
 - [matplotlib](https://matplotlib.org/) - 2D plotting library.
 - [mayavi](https://docs.enthought.com/mayavi/mayavi/) - interactive scientific data visualization and 3D plotting in Python.
 - [missingno](https://github.com/ResidentMario/missingno) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
+- [Napari](https://github.com/napari/napari) - Multi-dimensional image viewer for python.
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - generates statistical analytic reports with visualization for quick data analysis.
 - [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js](https://github.com/plotly/plotly.js)
 - [plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
@@ -42,6 +44,7 @@ We were inspired by:
 - [seaborn](https://seaborn.pydata.org/) - A library for making attractive and informative statistical graphics.
 - [three.py](https://github.com/stemkoski/three.py/) - Easy to use 3D library based on PyOpenGL. Inspired by Three.js.
 - [toyplot](https://toyplot.readthedocs.io/en/stable/) - The kid-sized plotting toolkit for Python with grownup-sized goals.
+- [vedo](https://vedo.embl.es/) - Scientific analysis and visualization based on VTK.
 - [veusz](https://veusz.github.io/) - Python multiplatform GUI plotting tool and graphing library
 - [VisPy](https://vispy.org/) - High-performance scientific visualization based on OpenGL.
 - [vtk](https://www.vtk.org/) - 3D computer graphics, image processing, and visualization that includes a Python interface.
