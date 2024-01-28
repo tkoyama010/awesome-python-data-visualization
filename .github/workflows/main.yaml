@@ -2,22 +2,21 @@ name: Tests
 
 on:
   push:
-    branches: [ '*' ]
+    branches: ["*"]
   pull_request:
-    branches: [ '*' ]
+    branches: ["*"]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Ruby 2.6
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 2.6.10
-    - name: Checks
-      run: |
-        gem install awesome_bot
-        awesome_bot README.md --allow-redirect --allow 503
+      - uses: actions/checkout@v2
+      - name: Set up Ruby 2.6
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6.10
+      - name: Checks
+        run: |
+          gem install awesome_bot
+          awesome_bot README.md --allow-redirect --allow 503
