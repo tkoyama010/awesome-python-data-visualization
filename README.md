@@ -7,6 +7,8 @@ A curated list of awesome data visualizations **python** frameworks, libraries a
 
 ## Contents
 
+### Tools
+
 - [altair](https://altair-viz.github.io/) - Declarative statistical visualizations, based on Vega-Lite.
 - [bokeh](https://bokeh.pydata.org/en/latest/) - Interactive Web Plotting for Python.
 - [Chartify](https://github.com/spotify/chartify) - Bokeh wrapper that makes it easy for data scientists to create charts.
@@ -30,3 +32,7 @@ A curated list of awesome data visualizations **python** frameworks, libraries a
 - [vtk](https://www.vtk.org/) - 3D computer graphics, image processing, and visualization that includes a Python interface.
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - generates statistical analytic reports with visualization for quick data analysis.
 - [pyechars](https://github.com/pyecharts/pyecharts) - Python binding for Echarts library.
+
+### Resources
+
+- [PyViz](https://pyviz.org/tools.html) - Python tools for data visualization.
