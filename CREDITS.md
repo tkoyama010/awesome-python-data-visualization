@@ -1,2 +1,2 @@
 - [awesome-dataviz](https://github.com/vinta/awesome-python) by Vinta Chen is licensed under CC BY 4.0.
-- [awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz) by Javier Luraschi is licensed under CC BY 4.0.
+- [awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz) by Javier Luraschi and Fabio Souto is licensed under CC BY 4.0.
