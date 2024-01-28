@@ -2,7 +2,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Test](https://github.com/javierluraschi/awesome-dataviz/actions/workflows/main.yaml/badge.svg)
 
 
-A curated list of awesome data visualizations **python** frameworks, libraries and software. Froked from [awesome-dataviz](https://github.com/vinta/awesome-dataviz).
+A curated list of awesome data visualizations **python** frameworks, libraries and software. Froked from [awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz).
 
 
 ## Contents
