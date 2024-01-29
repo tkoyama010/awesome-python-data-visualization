@@ -20,4 +20,4 @@ jobs:
         with:
           review-message: ":white_check_mark: Approving this PR because [${{ github.event.comment.user.login }}](https://github.com/${{ github.event.comment.user.login }}) said so in [here](${{ github.event.comment.html_url }}) :shipit:"
           pull-request-number: ${{ github.event.issue.number }}
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.SOME_USERS_PAT }}
