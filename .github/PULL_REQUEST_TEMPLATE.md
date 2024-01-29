@@ -17,4 +17,3 @@ Anyone who agrees with this pull request could submit an _Approve_ review to it.
 - [What's the difference between this Python Dataviz tool and similar ones?](#whats-the-difference-between-this-python-dataviz-tool-and-similar-ones)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
