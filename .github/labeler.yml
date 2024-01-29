@@ -2,7 +2,7 @@ documentation:
   - any:
       - changed-files:
           - any-glob-to-any-file: "*.md"
-maintenance:
+enhancement:
   - any:
       - changed-files:
           - any-glob-to-any-file: ".github/**/*"
