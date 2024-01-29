@@ -62,7 +62,7 @@ A curated list of [PyViz](https://pyviz.org/tools.html) - Python tools for data 
 
 ## Graphs and networks
 
-- [pygraphviz](https://pypi.org/project/pygraphviz/) - Python interface to Graphviz.
+- [pygraphviz](https://pypi.org/project/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
 
 ## Other domain-specific
 
@@ -81,7 +81,6 @@ A curated list of [PyViz](https://pyviz.org/tools.html) - Python tools for data 
 - [ipychart](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - generates statistical analytic reports with visualization for quick data analysis.
 - [pptk](https://github.com/heremaps/pptk) - Visualize and work with 2D/3D pointclouds
-- [pygraphviz](https://pypi.org/project/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
 - [pyechars](https://github.com/pyecharts/pyecharts) - Python binding for Echarts library.
 - [three.py](https://github.com/stemkoski/three.py/) - Easy to use 3D library based on PyOpenGL. Inspired by Three.js.
 - [veusz](https://veusz.github.io/) - Python multiplatform GUI plotting tool and graphing library
