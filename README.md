@@ -62,7 +62,7 @@ A curated list of [PyViz](https://pyviz.org/tools.html) - Python tools for data 
 
 ## Graphs and networks
 
-- [pygraphviz](https://pypi.org/project/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
+- [pygraphviz](https://pypi.org/project/pygraphviz/) - Python interface to Graphviz.
 
 ## Other domain-specific
 
