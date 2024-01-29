@@ -7,9 +7,8 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Contribution Guidelines](#contribution-guidelines)
-  - [Adding something to an awesome list](#adding-something-to-an-awesome-list)
-  - [Updating your Pull Request](#updating-your-pull-request)
+- [Adding something to an awesome list](#adding-something-to-an-awesome-list)
+- [Updating your Pull Request](#updating-your-pull-request)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
