@@ -1,6 +1,7 @@
 documentation:
   - any:
       - changed-files:
+          - any-glob-to-any-file: "LICENSE"
           - any-glob-to-any-file: "*.md"
 enhancement:
   - any:
