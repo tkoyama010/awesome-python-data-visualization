@@ -19,6 +19,7 @@ A curated list of awesome data visualizations **python** frameworks, libraries, 
   - [awesome-dash](https://github.com/Acrotrend/awesome-dash)
 - [diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters
 - [diagrams](https://github.com/mingrammer/diagrams) - Diagram as Code.
+- [GeoVista](https://github.com/bjlittle/geovista) - Cartographic rendering and mesh analytics powered by PyVista.
 - [ggplot](https://github.com/yhat/ggpy) - plotting system based on [R's](#r-tools) ggplot2.
 - [glumpy](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library.
 - [holoviews](https://holoviews.org/) - Complex and declarative visualizations from annotated data.
