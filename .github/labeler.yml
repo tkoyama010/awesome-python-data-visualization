@@ -1,0 +1,9 @@
+documentation:
+  - any:
+      - changed-files:
+          - any-glob-to-any-file: "*.md"
+maintenance:
+  - any:
+      - changed-files:
+          - any-glob-to-any-file: ".github/**/*"
+          - any-glob-to-any-file: ".pre-commit-config.yaml"
