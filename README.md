@@ -1,10 +1,11 @@
-# Awesome Python Dataviz tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Python Dataviz [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://pyviz.org/_static/logo.png" align="right" width="100">](https://pyviz.org/)
 
 > Useful Python tools for data visualizations Python frameworks, libraries, and software of [PyViz](<[https://electronjs.org](https://pyviz.org/tools.html)>)
 
-There are many types of Python visualization tools. It is essential to find your tool one among them.
+There are many types of Python visualization project.
+It is essential to find your tool one among them.
 
 ## Table of Contents
 
