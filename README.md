@@ -12,6 +12,7 @@ There are many types of Python visualization tools. It is essential to find your
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Core](#core)
+- [High-Level Shared API](#high-level-shared-api)
 - [High-Level](#high-level)
 - [Native-GUI](#native-gui)
 - [Other InfoVis](#other-infovis)
@@ -19,7 +20,9 @@ There are many types of Python visualization tools. It is essential to find your
 - [Geospatial](#geospatial)
 - [Graphs and networks](#graphs-and-networks)
 - [Other domain-specific](#other-domain-specific)
+- [Large-data rendering](#large-data-rendering)
 - [Dashboarding](#dashboarding)
+- [Colormapping](#colormapping)
 - [Not in PyViz](#not-in-pyviz)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
