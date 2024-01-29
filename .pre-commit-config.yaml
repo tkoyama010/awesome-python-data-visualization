@@ -34,3 +34,7 @@ repos:
         args: [--branch, main]
       - id: requirements-txt-fixer
       - id: trailing-whitespace
+  - repo: https://github.com/thlorenz/doctoc
+    rev: v2.2.0
+    hooks:
+      - id: doctoc
