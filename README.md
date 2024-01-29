@@ -2,7 +2,9 @@
 
 [<img src="https://pyviz.org/_static/logo.png" align="right" width="100">](https://pyviz.org/)
 
-A curated list of [PyViz](https://pyviz.org/tools.html) - Python tools for data visualizations python frameworks, libraries, and software.
+> Useful Python tools for data visualizations Python frameworks, libraries, and software of [PyViz](<[https://electronjs.org](https://pyviz.org/tools.html)>)
+
+There are many types of Python visualization tools. It is essential to find your tool one among them.
 
 ## Table of Contents
 
