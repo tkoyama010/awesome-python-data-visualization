@@ -1,10 +1,8 @@
 # Awesome Python Dataviz tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/tkoyama010/awesome-python-dataviz/blob/main/CONTRIBUTING.md)
-
 [<img src="https://pyviz.org/_static/logo.png" align="right" width="100">](https://pyviz.org/)
 
-A curated list of [PyViz](https://pyviz.org/tools.html) - Python tools for data visualizations **python** frameworks, libraries, and software.
+A curated list of [PyViz](https://pyviz.org/tools.html) - Python tools for data visualizations python frameworks, libraries, and software.
 
 ## Table of Contents
 
