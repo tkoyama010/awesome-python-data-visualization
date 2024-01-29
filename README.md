@@ -57,7 +57,6 @@ A curated list of [PyViz](https://pyviz.org/tools.html) - Python tools for data 
 ## Geospatial
 
 - [cartopy](https://github.com/SciTools/cartopy) - A cartographic python library with matplotlib support.
-- [GeoVista](https://github.com/bjlittle/geovista) - Cartographic rendering and mesh analytics powered by PyVista.
 
 ## Graphs and networks
 
