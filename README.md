@@ -31,6 +31,8 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 
 ## Core
 
+**[`^        back to top        ^`](#)**
+
 - [matplotlib](https://matplotlib.org/) - 2D plotting library.
 - [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js](https://github.com/plotly/plotly.js)
 - [bokeh](https://bokeh.pydata.org/en/latest/) - Interactive Web Plotting for Python.
@@ -39,6 +41,8 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 
 ## High-Level
 
+**[`^        back to top        ^`](#)**
+
 - [altair](https://altair-viz.github.io/) - Declarative statistical visualizations, based on Vega-Lite.
 - [seaborn](https://seaborn.pydata.org/) - A library for making attractive and informative statistical graphics.
 - [Chartify](https://github.com/spotify/chartify) - Bokeh wrapper that makes it easy for data scientists to create charts.
@@ -46,9 +50,13 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 
 ## Native-GUI
 
+**[`^        back to top        ^`](#)**
+
 - [PyQtGraph](https://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 
 ## Other InfoVis
+
+**[`^        back to top        ^`](#)**
 
 - [bqplot](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook.
 - [plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
@@ -56,6 +64,8 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 - [toyplot](https://toyplot.readthedocs.io/en/stable/) - The kid-sized plotting toolkit for Python with grownup-sized goals.
 
 ## SciVis
+
+**[`^        back to top        ^`](#)**
 
 - [glumpy](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library.
 - [mayavi](https://docs.enthought.com/mayavi/mayavi/) - interactive scientific data visualization and 3D plotting in Python.
@@ -65,26 +75,40 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 
 ## Geospatial
 
+**[`^        back to top        ^`](#)**
+
 - [cartopy](https://github.com/SciTools/cartopy) - A cartographic python library with matplotlib support.
 
 ## Graphs and networks
+
+**[`^        back to top        ^`](#)**
 
 - [pygraphviz](https://pypi.org/project/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
 
 ## Other domain-specific
 
+**[`^        back to top        ^`](#)**
+
 - [missingno](https://github.com/ResidentMario/missingno) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
 
 ## Large-data rendering
 
+**[`^        back to top        ^`](#)**
+
 ## Dashboarding
+
+**[`^        back to top        ^`](#)**
 
 - [dash](https://plot.ly/products/dash/) - Built on top of Flask, React and Plotly aimed at analytical web applications.
   - [awesome-dash](https://github.com/Acrotrend/awesome-dash)
 
 ## Colormapping
 
+**[`^        back to top        ^`](#)**
+
 ## Not in PyViz
+
+**[`^        back to top        ^`](#)**
 
 - [diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters
 - [diagrams](https://github.com/mingrammer/diagrams) - Diagram as Code.
