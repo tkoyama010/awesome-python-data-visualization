@@ -30,6 +30,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Core
+
 **[`^        back to top        ^`](#)**
 
 - [matplotlib](https://matplotlib.org/) - 2D plotting library.
@@ -39,6 +40,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 ## High-Level Shared API
 
 ## High-Level
+
 **[`^        back to top        ^`](#)**
 
 - [altair](https://altair-viz.github.io/) - Declarative statistical visualizations, based on Vega-Lite.
@@ -47,11 +49,13 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 - [holoviews](https://holoviews.org/) - Complex and declarative visualizations from annotated data.
 
 ## Native-GUI
+
 **[`^        back to top        ^`](#)**
 
 - [PyQtGraph](https://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 
 ## Other InfoVis
+
 **[`^        back to top        ^`](#)**
 
 - [bqplot](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook.
@@ -60,6 +64,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 - [toyplot](https://toyplot.readthedocs.io/en/stable/) - The kid-sized plotting toolkit for Python with grownup-sized goals.
 
 ## SciVis
+
 **[`^        back to top        ^`](#)**
 
 - [glumpy](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library.
@@ -69,33 +74,40 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 - [vtk](https://www.vtk.org/) - 3D computer graphics, image processing, and visualization that includes a Python interface.
 
 ## Geospatial
+
 **[`^        back to top        ^`](#)**
 
 - [cartopy](https://github.com/SciTools/cartopy) - A cartographic python library with matplotlib support.
 
 ## Graphs and networks
+
 **[`^        back to top        ^`](#)**
 
 - [pygraphviz](https://pypi.org/project/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
 
 ## Other domain-specific
+
 **[`^        back to top        ^`](#)**
 
 - [missingno](https://github.com/ResidentMario/missingno) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
 
 ## Large-data rendering
+
 **[`^        back to top        ^`](#)**
 
 ## Dashboarding
+
 **[`^        back to top        ^`](#)**
 
 - [dash](https://plot.ly/products/dash/) - Built on top of Flask, React and Plotly aimed at analytical web applications.
   - [awesome-dash](https://github.com/Acrotrend/awesome-dash)
 
 ## Colormapping
+
 **[`^        back to top        ^`](#)**
 
 ## Not in PyViz
+
 **[`^        back to top        ^`](#)**
 
 - [diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters
