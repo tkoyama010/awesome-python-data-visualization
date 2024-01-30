@@ -1,10 +1,11 @@
-# Awesome Python Dataviz tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Python Dataviz [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://pyviz.org/_static/logo.png" align="right" width="100">](https://pyviz.org/)
 
 > Useful Python tools for data visualizations Python frameworks, libraries, and software of [PyViz](<[https://electronjs.org](https://pyviz.org/tools.html)>)
 
-There are many types of Python visualization tools. It is essential to find your tool one among them.
+There are many types of Python visualization project.
+It is essential to find your tool one among them.
 
 ## Table of Contents
 
@@ -12,6 +13,7 @@ There are many types of Python visualization tools. It is essential to find your
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Core](#core)
+- [High-Level Shared API](#high-level-shared-api)
 - [High-Level](#high-level)
 - [Native-GUI](#native-gui)
 - [Other InfoVis](#other-infovis)
@@ -19,7 +21,9 @@ There are many types of Python visualization tools. It is essential to find your
 - [Geospatial](#geospatial)
 - [Graphs and networks](#graphs-and-networks)
 - [Other domain-specific](#other-domain-specific)
+- [Large-data rendering](#large-data-rendering)
 - [Dashboarding](#dashboarding)
+- [Colormapping](#colormapping)
 - [Not in PyViz](#not-in-pyviz)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -29,6 +33,8 @@ There are many types of Python visualization tools. It is essential to find your
 - [matplotlib](https://matplotlib.org/) - 2D plotting library.
 - [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js](https://github.com/plotly/plotly.js)
 - [bokeh](https://bokeh.pydata.org/en/latest/) - Interactive Web Plotting for Python.
+
+## High-Level Shared API
 
 ## High-Level
 
@@ -68,10 +74,14 @@ There are many types of Python visualization tools. It is essential to find your
 
 - [missingno](https://github.com/ResidentMario/missingno) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
 
+## Large-data rendering
+
 ## Dashboarding
 
 - [dash](https://plot.ly/products/dash/) - Built on top of Flask, React and Plotly aimed at analytical web applications.
   - [awesome-dash](https://github.com/Acrotrend/awesome-dash)
+
+## Colormapping
 
 ## Not in PyViz
 
