@@ -8,6 +8,12 @@ This list is a collection of tools, projects, images, and resources conforming t
 
 Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 
+---
+
+Enjoying awesome-python-dataviz? Show your support with a [Github star](https://github.com/tkoyama010/wesome-python-dataviz) — it’s a simple click that means the world to us and helps others discover it too! ⭐️
+
+---
+
 ## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
