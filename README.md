@@ -10,7 +10,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 
 ---
 
-Enjoying awesome-python-dataviz? Show your support with a [Github star](https://github.com/tkoyama010/wesome-python-dataviz) — it’s a simple click that means the world to us and helps others discover it too! ⭐️
+Enjoying awesome-python-dataviz? Show your support with a [Github star](https://github.com/tkoyama010/awesome-python-dataviz) — it’s a simple click that means the world to us and helps others discover it too! ⭐️
 
 ---
 
