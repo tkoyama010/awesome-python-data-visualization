@@ -39,6 +39,8 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 
 ## High-Level Shared API
 
+**[`^        back to top        ^`](#)**
+
 ## High-Level
 
 **[`^        back to top        ^`](#)**
