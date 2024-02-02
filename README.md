@@ -8,6 +8,12 @@ This list is a collection of tools, projects, images, and resources conforming t
 
 Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 
+---
+
+Enjoying awesome-python-dataviz? Show your support with a [Github star](https://github.com/tkoyama010/awesome-python-dataviz) — it’s a simple click that means the world to us and helps others discover it too! ⭐️
+
+---
+
 ## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -31,7 +37,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 
 ## Core
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 - [matplotlib](https://matplotlib.org/) - 2D plotting library.
 - [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js](https://github.com/plotly/plotly.js)
@@ -39,9 +45,11 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 
 ## High-Level Shared API
 
+**[`^        back to top        ^`](#table-of-contents)**
+
 ## High-Level
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 - [altair](https://altair-viz.github.io/) - Declarative statistical visualizations, based on Vega-Lite.
 - [seaborn](https://seaborn.pydata.org/) - A library for making attractive and informative statistical graphics.
@@ -50,13 +58,13 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 
 ## Native-GUI
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 - [PyQtGraph](https://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 
 ## Other InfoVis
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 - [bqplot](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook.
 - [plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
@@ -65,7 +73,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 
 ## SciVis
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 - [glumpy](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library.
 - [mayavi](https://docs.enthought.com/mayavi/mayavi/) - interactive scientific data visualization and 3D plotting in Python.
@@ -75,40 +83,40 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
 
 ## Geospatial
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 - [cartopy](https://github.com/SciTools/cartopy) - A cartographic python library with matplotlib support.
 
 ## Graphs and networks
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 - [pygraphviz](https://pypi.org/project/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
 
 ## Other domain-specific
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 - [missingno](https://github.com/ResidentMario/missingno) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
 
 ## Large-data rendering
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 ## Dashboarding
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 - [dash](https://plot.ly/products/dash/) - Built on top of Flask, React and Plotly aimed at analytical web applications.
   - [awesome-dash](https://github.com/Acrotrend/awesome-dash)
 
 ## Colormapping
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 ## Not in PyViz
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#table-of-contents)**
 
 - [diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters
 - [diagrams](https://github.com/mingrammer/diagrams) - Diagram as Code.
