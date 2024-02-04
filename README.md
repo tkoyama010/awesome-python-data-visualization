@@ -120,6 +120,7 @@ Enjoying awesome-python-dataviz? Show your support with a [Github star](https://
 
 - [diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters
 - [diagrams](https://github.com/mingrammer/diagrams) - Diagram as Code.
+- [GeoVista](https://github.com/bjlittle/geovista) - Cartographic rendering and mesh analytics powered by PyVista.
 - [ggplot](https://github.com/yhat/ggpy) - plotting system based on [R's](#r-tools) ggplot2.
 - [ipychart](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - generates statistical analytic reports with visualization for quick data analysis.
