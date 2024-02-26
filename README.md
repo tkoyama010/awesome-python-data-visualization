@@ -1,6 +1,6 @@
 # Awesome Python Dataviz [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://pyviz.org/_static/logo.png" align="left" width="100">](https://pyviz.org/)
+[<img src="logo.svg" align="left" width="100">](https://pyviz.org/)
 
 > Useful Python tools for data visualizations Python frameworks, libraries, and software of [PyViz](<[https://electronjs.org](https://pyviz.org/tools.html)>)
 
