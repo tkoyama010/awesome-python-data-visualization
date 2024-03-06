@@ -1,18 +1,12 @@
-# Awesome Python Dataviz [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Python Data Visualization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="logo.svg" align="left" width="100">](https://pyviz.org/)
 
-> Useful Python tools for data visualizations Python frameworks, libraries, and software of [PyViz](<[https://electronjs.org](https://pyviz.org/tools.html)>)
+> Useful Python tools for data visualizations Python frameworks, libraries, and software of Data Visualization
 
 This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
 
-Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md)
-
----
-
-Enjoying awesome-python-dataviz? Show your support with a [Github star](https://github.com/tkoyama010/awesome-python-dataviz) — it’s a simple click that means the world to us and helps others discover it too! ⭐️
-
----
+Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Table of Contents
 
