@@ -104,7 +104,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [dash](https://plot.ly/products/dash/) - Built on top of Flask, React and Plotly aimed at analytical web applications.
   - [awesome-dash](https://github.com/Acrotrend/awesome-dash)
-- [streamlit](https://streamlit.io/) - A faster way to build and share data apps.
+- [Streamlit](https://streamlit.io/) - Streamlit turns data scripts into shareable web apps in minutes. All in pure Python. No front‑end experience required.
 
 ## Colormapping
 
