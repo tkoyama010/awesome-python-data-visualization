@@ -72,6 +72,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [glumpy](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library.
 - [mayavi](https://docs.enthought.com/mayavi/mayavi/) - interactive scientific data visualization and 3D plotting in Python.
 - [PyVista](https://github.com/pyvista/pyvista) – 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
+- [vedo](https://vedo.embl.es) - Library for scientific analysis and visualization of 3D objects based on VTK.
 - [VisPy](https://vispy.org/) - High-performance scientific visualization based on OpenGL.
 - [vtk](https://www.vtk.org/) - 3D computer graphics, image processing, and visualization that includes a Python interface.
 
