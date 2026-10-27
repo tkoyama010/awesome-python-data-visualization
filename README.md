@@ -54,6 +54,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 **[`^        back to top        ^`](#table-of-contents)**
 
+- [mpltweak](https://github.com/shdbl/mpltweak) - Interactive GUI that adjusts subplot positions, legends and font sizes of an existing Matplotlib figure and writes the values back into the script.
 - [PyQtGraph](https://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 
 ## Other InfoVis
